@@ -1,0 +1,131 @@
+.container4 {
+    box-shadow: 50px 50px 70px rgb(0, 0, 0);
+    border-radius: 50px;
+    /* background: linear-gradient(45deg, #397d77, #1d4b8b); */
+    background-color: #22465b;
+    height: 78%;
+    width: 80%;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    width: 80%;
+}
+.boxee{
+    background: linear-gradient(45deg,rgb(106, 186, 220),rgb(147, 147, 99));
+    margin-top: 0;
+    border: 2px solid grey;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 30px;
+    margin-left: 60px;
+    width: 90%;
+    height: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.boxee div{
+    height: 95%;
+    width: 300px;
+    border-radius: 30px;
+}
+.detailll:hover{
+    color: black;
+    background-color:rgb(65, 98, 98)
+}
+
+
+.detailll{
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: rgb(221, 202, 135); 
+    width: 97%;
+    text-align:left;
+    display: block;
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.gmail{
+    height: 40px;
+    font-size: 15px;
+    color: black;
+    font-size: 13.5px;
+}
+.address{
+    box-sizing: border-box;
+    padding: 15px;
+    height: 100px;
+    width: 97%;
+    background-color: rgb(221, 202, 135); 
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.address:hover{
+    background-color: rgb(65, 98, 98);
+    color: black;
+}
+
+.HandL{
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 27%;
+    width: 43%;
+    height: 30%;
+    display: flex;
+    text-align: center;
+    border: 2px solid grey;
+    box-shadow: 5px 5px 10px grey;
+    background: linear-gradient(45deg,rgb(106, 186, 220),rgb(147, 147, 99));
+}
+
+.HL{
+
+    border-radius: 30px;
+    width: 260px;
+}
+
+.container4 h2{
+    margin-top: 4px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: rgb(200, 233, 248);
+    border-radius: 10px;
+    width: 500px;
+    margin-left: 350px;
+}
+
+.HL h3{
+    width: 200px;
+    height: 40px;
+    margin: 5px;
+    margin-left: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 233, 248);
+    border-radius: 10px;
+}
+
+.HL p{
+    margin-top: 10px;
+    background-color: rgb(221, 202, 135); 
+    border-radius: 10px;  
+    margin-left: 30px;
+    width: 200px;
+    height: 20px;
+    line-height: 10px;
+
+}
+
+.HL p:hover{
+    background-color:rgb(65, 98, 98);
+    color: black;
+}
